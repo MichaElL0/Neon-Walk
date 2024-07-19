@@ -1,5 +1,5 @@
 # Neon-walk
- You jumped to weird hole. Now when you think about it was a bad idea. You found this strange world. It's up to you to escape this place and find what's at the END.
+ You jumped to a weird hole. Now when you think about it was a bad idea. You found this strange world. It's up to you to escape this place and find what's at the END.
 
 ## Play it here: 
 https://differentpixels.itch.io/neon-walk
